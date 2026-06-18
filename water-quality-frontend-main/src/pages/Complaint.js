@@ -1,7 +1,7 @@
 import axios from 'axios'; // Import Axios for making HTTP requests
 import React, { useState } from 'react';
 
-const API_URL = process.env.REACT_APP_BACKEND_URL || 'https://water-quality-monitoring-7.onrender.com';
+const API_URL = process.env.REACT_APP_BACKEND_URL ||'https://water-quality-monitoring-8.onrender.com';
 
 const styles = {
   container: {
